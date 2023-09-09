@@ -3,3 +3,4 @@ matplotlib
 seaborn
 sklearn
 scikit_learn
+pickle
